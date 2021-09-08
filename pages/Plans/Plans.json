@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "Payment Plans",
+  "usingComponents": {
+    "card": "/mini-antui/es/card/index"
+  }
+}

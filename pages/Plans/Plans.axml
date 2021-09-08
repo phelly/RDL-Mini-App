@@ -1,0 +1,28 @@
+<card
+  thumb="{{thumb}}"
+  title="Basic Plan"
+  subTitle="Our Cheapest plan which goes at 800 per user per month"
+  onClick="onCardClick"
+  footer="Tap anywhere to checkout"
+  footerImg="{{footerImg}}"
+  info="Click the card"
+/>
+<card
+  thumb="{{thub}}"
+  title="Standard Plan"
+  subTitle="Our most popular plan which goes at 1200 per user per month"
+  onClick="onCardClicki"
+  footer="Tap anywhere to checkout"
+  footerImg="{{foterImg}}"
+  info="Click the card"
+/>
+
+<card
+  thumb="{{thum}}"
+  title="Premium Plan"
+  subTitle="Our most Comprehensive  plan which goes at 2000 per user per month"
+  onClick="onCardClik"
+  footer="Tap anywhere to checkout"
+  footerImg="{{footerIg}}"
+  info="Click the card"
+/>

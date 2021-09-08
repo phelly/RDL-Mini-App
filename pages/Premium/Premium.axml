@@ -1,0 +1,19 @@
+<view id="title">Premium Plan Details</view>
+<view id="checkout">
+<image id="image"  src="https://previews.123rf.com/images/deimosz/deimosz1502/deimosz150201079/36532856-red-premium-icon-badge-label-or-sticker-isolated-on-white-background.jpg"/>
+<view id="text">
+{{text}}
+</view>
+<view class="formsa" style="margin-top:0px;">
+  <form onSubmit="formSubmit" onReset="formReset" >
+<view id="section">
+    <view id="section_title" >Enter Number of Users</view>
+    <input id="ph" name="users" placeholder="please input here" type="digit" />
+  </view>
+  <view class="btn-area">
+    <button formType="submit">PAY</button>
+    <button formType="reset">Reset</button>
+  </view>
+</form>
+</view>
+</view>

@@ -1,0 +1,42 @@
+<!-- Grid view of the items that we have -->
+<!-- <grid onGridItemClick="onItemClick" columnNum="{{2}}" list="{{list3}}" id="grid" hasLine="" /> -->
+<!-- Card view of the items that we stock -->
+
+<card
+  thumb="{{thm}}"
+  title="RDL Order Management"
+  subTitle="Manage your inventory, orders and products from a single site"
+  onClick="onCardClick"
+  footer="Check Available Plans"
+  footerImg="{{footerIg}}"
+  info="Click the card"
+/>
+
+<card
+  thumb="{{thumb}}"
+  title="Zoho Books"
+  subTitle="Easy to use Accounting Books for your business"
+   onClick="onCardCliky"
+  footer="Check Available Plans"
+  footerImg="{{footerImg}}"
+  info="Click the card"
+/>
+<!-- <card
+  thumb="{{thub}}"
+  title="Zoho Invoice"
+  subTitle="Send easy and automate your invoicing business"
+  onClick="onCardClicki"
+  footer="Check Available Plans"
+  footerImg="{{foterImg}}"
+  info="Click the card"
+/> -->
+
+<card
+  thumb="{{thum}}"
+  title="Zoho Social"
+  subTitle="Track your leads and track your posts and their reach"
+  onClick="onCardClik"
+  footer="Check Available Plans"
+  footerImg="{{footerIg}}"
+  info="Click the card"
+/>

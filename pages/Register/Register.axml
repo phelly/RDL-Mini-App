@@ -1,0 +1,22 @@
+<view class="formsa" style="margin-top:30px;">
+  <form onSubmit="formSubmit" onReset="formReset" >
+<view class="section">
+    <view  class="section_title">Name</view>
+    <input id="fnam" name="fname" placeholder="please input here" type="text" onConfirm="checktype"/>
+  </view>
+  <view class="section">
+    <view class="section_title">Email</view>
+    <input id="ema" email name="email" placeholder="please input here" type="email" />
+  </view>
+  <view class="section">
+    <view class="section_title">Phone</view>
+    <input id="ph" name="phone" placeholder="please input here" type="digit" />
+  </view>
+  <view class="btn-area">
+    <button formType="submit">Register</button>
+    <button id="log" size="default" onTap="login"  type="primary">Skip</button>
+    <button formType="reset">Reset</button>
+  </view>
+ 
+</form>
+</view>

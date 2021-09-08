@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "Available Products",
+  "usingComponents": {
+    "grid": "/mini-antui/es/grid/index",
+    "card": "/mini-antui/es/card/index"
+  }
+}

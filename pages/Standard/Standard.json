@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "Standard Plan Checkout",
+  "usingComponents": {
+    "card": "/mini-antui/es/card/index"
+  }
+}

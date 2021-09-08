@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "Dashboard",
+  "usingComponents": {
+    "grid": "/mini-antui/es/grid/index"
+  }
+}

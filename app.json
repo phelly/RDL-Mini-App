@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/Register/Register",
+    "pages/Login/Login",
+    "pages/Products/Products",
+    "pages/Plans/Plans",
+    "pages/Basic/Basic",
+    "pages/Standard/Standard",
+    "pages/Premium/Premium",
+    "pages/AddProduct/AddProduct",
+    "pages/AddOrder/AddOrder",
+    "pages/AddInvoice/AddInvoice",
+    "pages/Basic_Dashboard/Basic_Dashboard"
+  ],
+  "window": {
+    "defaultTitle": "RDL Order Management"
+  }
+}

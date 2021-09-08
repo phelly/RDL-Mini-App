@@ -1,0 +1,10 @@
+<image src="https://rovadigital.co.ke/wp-content/uploads/2020/04/rova-digital.png"/>
+<view>
+{{text}}
+</view>
+
+<button size="default" type="primary" onTap="go">Get Started</button>
+
+<view>{{terms}}</view>
+
+<view id="cont">Contact Us +254786220003</view>

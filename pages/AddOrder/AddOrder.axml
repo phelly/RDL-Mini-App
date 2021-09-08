@@ -1,0 +1,37 @@
+<view class="formsa" style="margin-top:30px;">
+  <form onSubmit="formSubmit" onReset="formReset" >
+<view class="section">
+    <view class="section_title">Sales_Owner</view>
+    <input id="ema"  name="sales" placeholder="please input here" type="email" />
+  </view>
+  <view class="section">
+    <view class="section_title">Customer</view>
+    <input id="ph" name="cus" placeholder="please input here" type="text" />
+  </view>
+  <view class="section">
+    <view class="section_title">DateofOrder</view>
+    <input id="ema"  name="d_order" placeholder="please input here" type="email" />
+  </view>
+  <view class="section">
+    <view class="section_title">Delivery_Agency</view>
+    <input id="ph" name="agen" placeholder="please input here" type="text" />
+  </view>
+  <view class="section">
+    <view class="section_title">Delivery_Date</view>
+    <input id="ema"  name="deldate" placeholder="please input here" type="text" />
+  </view>
+  <view class="section">
+    <view class="section_title">Product</view>
+    <input id="ph" name="prod" placeholder="please input here" type="text" />
+  </view>
+  <view class="section">
+    <view class="section_title">Quantity</view>
+    <input id="ph" name="qty" placeholder="please input here" type="digit" />
+  </view>
+  <view class="btn-area">
+  <!-- <button id="log" size="default" onTap="proceed"  type="primary">Proceed</button> -->
+  <button formType="submit">Proceed</button>
+  <button formType="reset">Reset</button>
+  </view>
+ </form>
+</view>

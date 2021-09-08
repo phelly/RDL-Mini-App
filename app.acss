@@ -1,0 +1,8 @@
+page {
+  background: rgb(211, 25, 12);
+  font-size: 21px;
+  text-decoration-color: white;
+}
+button{
+  background-color: red;
+}

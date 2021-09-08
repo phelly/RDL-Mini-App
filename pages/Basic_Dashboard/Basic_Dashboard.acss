@@ -1,0 +1,8 @@
+#exp{
+  margin-top: 10px;
+  color: white;
+}
+#sal{
+  margin-top: 10px;
+  color: white;
+}

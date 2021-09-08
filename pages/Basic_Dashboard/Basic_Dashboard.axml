@@ -1,0 +1,4 @@
+<view>Plan:{{plan}}</view>
+<grid onGridItemClick="onItemClick" columnNum="{{3}}" list="{{list3}}" />
+<view id="exp">Today's Expenses {{expenses}}</view>
+<view id="sal">Today's Sales {{sales}}</view>

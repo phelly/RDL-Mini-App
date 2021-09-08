@@ -1,0 +1,34 @@
+<view class="formsa" style="margin-top:30px;">
+  <form onSubmit="formSubmit" onReset="formReset" >
+<view class="section">
+    <view class="section_title">Supplier</view>
+    <input id="ema"  name="supp" placeholder="please input here" />
+  </view>
+
+  <view class="section">
+    <view class="section_title">Invoice_Date</view>
+    <input id="ema"  name="idat" placeholder="please input here"  />
+  </view>
+  <view class="section">
+    <view class="section_title">Invoice_Number</view>
+    <input id="ph" name="inum" placeholder="please input here" type="text" />
+  </view>
+  <view class="section">
+    <view class="section_title">Product</view>
+    <input id="ema"  name="prod" placeholder="please input here" type="text" />
+  </view>
+  <view class="section">
+    <view class="section_title">Quantity</view>
+    <input id="ph" name="quat" placeholder="please input here" type="text" />
+  </view>
+  <view class="section">
+    <view class="section_title">Cashier</view>
+    <input id="ph" name="cashie" placeholder="please input here" type="text" />
+  </view>
+  <view class="btn-area">
+  <!-- <button id="log" size="default" onTap="proceed"  type="primary">Proceed</button> -->
+  <button formType="submit">Proceed</button>
+  <button formType="reset">Reset</button>
+  </view>
+ </form>
+</view>

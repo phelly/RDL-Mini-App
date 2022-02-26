@@ -9,7 +9,7 @@
     <input id="ph" name="cus" placeholder="please input here" type="text" />
   </view>
   <view class="section">
-    <view class="section_title">DateofOrder</view>
+    <view class="section_title">Date_of_Order</view>
     <input id="ema"  name="d_order" placeholder="please input here" type="email" />
   </view>
   <view class="section">

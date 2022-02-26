@@ -1,0 +1,26 @@
+{
+  "modes": [
+    {
+      "title": "AddProduct",
+      "page": "pages/AddProduct/AddProduct",
+      "update": true
+    },
+    {
+      "title": "Home",
+      "page": "pages/index/index"
+    },
+    {
+      "title": "Add Order",
+      "page": "pages/AddOrder/AddOrder",
+      "update": true
+    },
+    {
+      "title": "Comment",
+      "page": "pages/index/index"
+    },
+    {
+      "title": "comment",
+      "page": "pages/Standard/Standard"
+    }
+  ]
+}
